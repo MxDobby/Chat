@@ -24,7 +24,8 @@ void draw(){
 
 void keyPressed(){
   if (key == ENTER){
-    log.add(msg);
+    //Add message to front of list
+    log.add(0, msg);
     msg = "";
   }else{
   msg += key;
