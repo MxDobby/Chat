@@ -1,1 +1,11 @@
-println("hej med dig jeg he'er kaj");
+void setup(){
+  
+}
+
+void draw(){
+  
+}
+
+
+void ketPressed(){
+}
