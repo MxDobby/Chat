@@ -9,7 +9,7 @@ void setup(){
 }
 
 void draw(){
-  background(0);
+  background(200);
   
   textSize(32);
   text(msg, 100, 100);
